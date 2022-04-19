@@ -1,0 +1,297 @@
+ 
+ *{
+     margin: 0;
+     padding: 0;
+ }
+ 
+ #Home{ 
+   background-color: rgb(233,250,252);
+    padding: 20px;
+    margin-top: 5px; 
+
+} 
+.Vet1 img{ 
+    margin-left: 60%; 
+    margin-top: -20%;
+    border-radius: 50%;
+    border: 25px solid rgb(207,228,231);
+
+} 
+.text{ 
+   margin-top: 10%; 
+} 
+.text h1{ 
+    font-size: large;
+}
+
+.button{ 
+    color: rgb(255, 255, 255); 
+    background-color: rgb(94, 176, 243);
+} 
+.topnav a{ 
+    float: right;
+    color: rgb(10, 10, 10);
+    text-align: center;
+    padding: 15px 15px;
+    text-decoration: none;
+    font-size: 19px;
+    margin-top: -19px;
+}
+.topnav{ 
+    overflow: hidden;
+    background-color: rgb(233,250,252);
+    
+
+} 
+#Services{ 
+background-color: rgb(248,254,255);
+
+} 
+#service2{ 
+    margin-right: 15%;
+
+}
+
+.ff1{
+    margin-left: 75%;
+    margin-top: 10px;
+} 
+.firstPage{ 
+    margin-left: 73%; 
+margin-top: 13px; 
+border: 2px rgb(255,255,255);
+border-radius: 2%;
+background-color:rgb(255,255,255);
+height: 25vh;
+width: 25%;
+text-align: center; 
+padding-top: 5%;
+} 
+.firstPage i { 
+    border-color: rgb(79,181,192);
+}  
+.SecondPage{ 
+    margin-left: 38%;
+    margin-top: -18%; 
+    border: rgb(255,255,255);
+border-radius: 2%;
+background-color: rgb(255,255,255);
+height: 25vh;
+width: 25%;
+text-align: center; 
+padding-top: 5%;
+} 
+.SecondPage i { 
+    border-color: rgb(79,181,192);
+} 
+.ThirdPage{ 
+    margin-left: 2%;
+    margin-top: -18%; 
+    border: rgb(255,255,255);
+border-radius: 2%;
+background-color: rgb(255,255,255);
+height: 25vh;
+width: 25%;
+text-align: center; 
+padding-top: 5%;
+} 
+.ThirdPage i { 
+    border-color: rgb(79,181,192);
+} 
+.SixthPage{ 
+    margin-left: 75%;
+    margin-top: -18%; 
+    border: rgb(255,255,255);
+border-radius: 2%;
+background-color: rgb(255,255,255);
+height: 25vh;
+width: 25%;
+text-align: center; 
+padding-top: 5%;
+} 
+.SixthPage i { 
+    border-color: rgb(79,181,192);
+} 
+.FifthPage{
+    margin-left: 38%;
+    margin-top: -18%; 
+    border: 2px rgb(255,255,255);;
+border-radius: 2%;
+background-color: rgb(255,255,255);
+height: 25vh;
+width: 25%;
+text-align: center; 
+padding-top: 5%;
+} 
+.FifthPage i { 
+    border-color: rgb(79,181,192);
+}
+.FourthPage{ 
+    margin-left: 2%;
+   margin-top: 70px;
+    border: 2px rgb(255,255,255);
+border-radius: 2%;
+background-color: rgb(255,255,255);
+height: 25vh;
+width: 25%;
+text-align: center; 
+padding-top: 5%;
+}  
+.FourthPage i { 
+    border-color: rgb(79,181,192);
+} 
+#Doctors{ 
+   background-color: rgb(233,250,252);
+}
+.Docs{ 
+    margin-left: 65%;
+    margin-right: 10%; 
+    margin-top: 12%;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}  
+.Vet2 img{ 
+    margin-left: 5%;
+    margin-top: -20%; 
+    width: 35%; 
+    background-color: rgb(207,228,231);
+border-radius: 5%;
+}
+.button2{ 
+    color: rgb(233, 237, 241);
+    background-color: rgb(94, 176, 243); 
+     margin-left: 65%;
+     width: 20vh;
+     height: 5vh;
+     border-radius: 10%; 
+     margin-left: 65%;
+     margin-top: 3%;
+
+} 
+ 
+.ff2{ 
+    margin-left: 70%;
+    margin-top: -2%;
+}
+.ff3{ 
+    margin-left: 85%; 
+    margin-top: 2%;
+}
+.SeventhPage{ 
+    margin-left: 70%;
+    margin-top: 2%; 
+   border: rgb(255,255,255);
+    border-radius: 2%;
+   background-color: rgb(255,255,255);
+    height: 40vh;
+    width: 30%;
+    text-align: center;  
+}  
+.SeventhPage i { 
+    color: rgb(233,250,252); 
+ }
+.star1{ 
+    color: gold;
+}
+.EigthPage{ 
+    
+    margin-top: -20%;
+    margin-left: 5%; 
+    border: rgb(255,255,255);
+    border-radius: 2%;
+   background-color: rgb(255,255,255);
+    height: 40vh;
+    width: 30%;
+    text-align: center;    
+} 
+.EigthPage i { 
+   color: rgb(233,250,252); 
+}
+.star2{ 
+    color: gold;
+} 
+#About{ 
+   background-color: rgb(248,254,255);
+    margin-top: 1px;
+}  
+.picture1 img{ 
+background-color: rgb(207,228,231);
+margin-left: 70%; 
+height: 50vh;  
+width: 25%; 
+margin-bottom: 5%; 
+
+} 
+.picture1 h3{
+   margin-left: 70%;
+    margin-bottom:6%; 
+    
+}
+.picture2 img{ 
+    background-color: rgb(227, 252, 250); 
+    margin-left: 40%; 
+   margin-bottom: 5%;
+    margin-top: -50%; 
+    height: 50vh;
+    width: 25%;
+}
+ .picture2 h3{  
+    margin-left: 40%; 
+    margin-bottom: -5%; 
+    
+   }
+    
+.picture3 img{ 
+    background-color: rgb(227, 252, 250);   
+    margin-top: -40%;
+   
+    height: 60vh; 
+    width: 27%; 
+    
+    
+    
+} 
+#doctorPictures{    
+    background-color: rgb(177, 235, 245);
+}  
+#box{ 
+    background-color: rgb(206, 250, 250);
+    margin-left: 0%;
+} 
+.Blog{
+    margin-left: 39%;
+}
+.Text1{
+    margin-bottom: 10%;
+    margin-left: 3.5%;
+    
+
+}
+
+.Buttonn1 { 
+    height: 12%;
+    width: 6%;
+    margin-left: 53%;
+    margin-top: -5%;
+}
+
+
+.Layer{
+  margin-left: 90px;
+  margin-bottom: -13%; 
+  margin-top: 5.5%;
+ }
+ .Layer1{
+ margin-left: 35%;
+ margin-top: 5.5%;
+ margin-bottom: 5px;
+ }
+.Layer2{
+ margin-left: 60%;
+ margin-top: -13%;
+ margin-top: -11%;
+}
+.Layer3{
+ margin-left: 85%; 
+ margin-top: -11%;
+ }
